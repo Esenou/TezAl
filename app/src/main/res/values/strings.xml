@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TezAl</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Батыров Жаркынбек</string>
+    <string name="nav_header_subtitle">batyrov@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Разделы</string>
+    <string name="menu_cart">Корзина</string>
+    <string name="menu_slideshow">Выход</string>
+    <string name="menu_tools">Личные данные</string>
+    <string name="menu_share">Активные заказы</string>
+    <string name="menu_select_products">Избранные контейнеры</string>
+    <string name="action_clear_cart">Очистить корзину</string>
+</resources>
